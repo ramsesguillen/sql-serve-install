@@ -1,0 +1,8 @@
+Linux and macOS Installation Tutorial for the Microsoft Drivers for PHP for SQL Server
+https://learn.microsoft.com/th-th/sql/connect/php/installation-tutorial-linux-mac?view=sql-server-ver16
+Install the Microsoft ODBC driver for SQL Server (Linux)
+https://learn.microsoft.com/th-th/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-ver16
+Install the Microsoft ODBC driver for SQL Server (Linux)
+https://learn.microsoft.com/en-us/sql/connect/php/step-3-proof-of-concept-connecting-to-sql-using-php?view=sql-server-ver16
+
+
